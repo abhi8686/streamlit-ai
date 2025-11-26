@@ -1,0 +1,20 @@
+[theme]
+# Primary color for interactive elements (buttons, links, etc.)
+primaryColor = "#4A90E2"
+
+# Background color (applies to whole app - we override with CSS for columns)
+backgroundColor = "#FFFFFF"
+
+# Secondary background color (for widgets, inputs)
+secondaryBackgroundColor = "#F5F5F5"
+
+# Text color
+textColor = "#891291"
+
+# Font
+font = "sans serif"
+
+[server]
+# Enable file watcher for development
+headless = false
+
